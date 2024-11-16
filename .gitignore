@@ -1,0 +1,68 @@
+# Gradle files
+.gradle/
+build/
+out/
+*.iml
+.gradle
+
+# Local configuration file (SDK, NDK, etc.)
+local.properties
+
+# Android Studio specific files
+.idea/
+*.iws
+*.iml
+*.hprof
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+
+# Android build output
+/build/
+
+# Logs
+*.log
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Gradle wrapper files
+gradle/wrapper/gradle-wrapper.properties
+
+# Keystore files
+*.jks
+*.keystore
+
+# Android specific
+*.apk
+*.ap_ 
+*.aab
+
+# NDK
+obj/
+
+# Caches and generated files
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Misc
+.DS_Store
+*.swp
+*.swo
+
+# JetBrains
+.idea/
+
+# Hilt generated files
+hilt/
+
+# IntelliJ
+*.iml
+.idea/
+
+# Android Device-specific settings
+*.user
+*.user*.bak
